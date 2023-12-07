@@ -5,5 +5,5 @@ Hi, my name is Feras Alzahrani
 
 **Living in:** Saudi Arabia 🇸🇦
 
-**Basic Language:** node.js
+**My experience: javascript, (html, css, js)**
 
